@@ -1,7 +1,5 @@
-#include <stdio.h>
 #include <math.h>
-#include <inttypes.h>
-#include "myfunc.h"
+#include <stdio.h>
 #include "square.h"
 
 solution square(double a, double b, double c)
