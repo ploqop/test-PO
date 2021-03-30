@@ -1,3 +1,9 @@
 *.user
 build
-tests/
+Makefile
+app/app
+*.o
+*.gcda
+*.gcno
+tests/tests
+build-app-Desktop-Debug
